@@ -66,11 +66,11 @@ I thrive in hackathons, research-driven projects, and high-impact collaborations
 
 ## **📌 Featured Projects**
 
-🔹 [**AI-Powered Drone Surveillance**](https://github.com/83Gh0st/AI-Drone-Surveillance) 🛸🔍
+🔹 [**AI-Powered Drone Surveillance**](https://github.com/83////Gh0st/AI-Drone-Surveillance) 🛸🔍
 
-🔹 [**Cybersecurity Threat Detection System**](https://github.com/83Gh0st/CyberThreat-Detector) 🛡️
+🔹 [**Cybersecurity Threat Detection System**](https://github.com////////83Gh0st/CyberThreat-Detector) 🛡️
 
-🔹 [**ML Model for Sign Language Recognition**](https://github.com/83Gh0st/Sign-Language-Detection) 🤟📷
+🔹 [**ML Model for Sign Language Recognition**](https://github.com//////83Gh0st/Sign-Language-Detection) 🤟📷
 
 📌 *Check out more at my repositories!* 🚀
 
@@ -78,7 +78,7 @@ I thrive in hackathons, research-driven projects, and high-impact collaborations
 
 ## **📬 Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-83gh0st/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-s/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun3314508@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/83Gh0st)
 
