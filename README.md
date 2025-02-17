@@ -2,7 +2,7 @@
 
 # 🚀 83Gh0st | Arjun 👨‍💻
 
-**`AI | ML | Cybersecurity | Data Science | Electrical & Electronics Engineering`**
+**`AI | ML | Cybersecurity | Robotics | Electrical & Electronics Engineering`**
 
 [![GitHub followers](https://img.shields.io/github/followers/83Gh0st?style=for-the-badge)](https://github.com/83Gh0st)
 [![GitHub stars](https://img.shields.io/github/stars/83Gh0st?style=for-the-badge)](https://github.com/83Gh0st?tab=repositories)
@@ -11,24 +11,25 @@
 
 ## **🌟 About Me**
 
-👋 Hey there! I’m **Arjun**, an engineering enthusiast with a passion for AI, cybersecurity, and robotics. I am currently pursuing:
+👋 Hey there! I’m **Arjun**, an engineering enthusiast passionate about AI, cybersecurity, and cutting-edge tech. Currently pursuing:
 
-- 🎓 **B.Tech in Electrical & Electronics Engineering** at **NIT Nagaland**.
-- 📊 **BS in Data Science and Applications** at **IIT Madras**.
-- 🔬 Working on cutting-edge projects in **robotics, AI-driven cybersecurity, and defense tech**.
+- 🎓 **B.Tech in Electrical & Electronics Engineering** at **NIT Nagaland**
+- 📊 **BS in Data Science and Applications** at **IIT Madras**
+- 🏆 **Researching AI-driven cybersecurity, defense technology, and autonomous robotics**
 
-I thrive in hackathons, research-driven projects, and high-impact collaborations. 🚀
+I thrive in **hackathons, research-driven projects, and high-impact collaborations**. My goal is to build **disruptive tech** and push the boundaries of AI, cybersecurity, and embedded systems. 🚀
 
 ---
 
 ## **🛠️ Tech Stack & Tools**
 
-### **Languages & Frameworks**
+### **Programming & Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### **AI/ML & Data Science**
 
@@ -36,14 +37,22 @@ I thrive in hackathons, research-driven projects, and high-impact collaborations
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### **Cybersecurity & Cloud**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF0000?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-### **Tools & DevOps**
+### **Embedded Systems & Robotics**
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### **DevOps & Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -66,11 +75,11 @@ I thrive in hackathons, research-driven projects, and high-impact collaborations
 
 ## **📌 Featured Projects**
 
-🔹 [**AI-Powered Drone Surveillance**](https://github.com/83////Gh0st/AI-Drone-Surveillance) 🛸🔍
+🔹 [**AI-Powered Drone Surveillance**](https://github.com/83Gh0st/AI-Drone-Surveillance) 🛸🔍
 
-🔹 [**Cybersecurity Threat Detection System**](https://github.com////////83Gh0st/CyberThreat-Detector) 🛡️
+🔹 [**Cybersecurity Threat Detection System**](https://github.com/83Gh0st/CyberThreat-Detector) 🛡️
 
-🔹 [**ML Model for Sign Language Recognition**](https://github.com//////83Gh0st/Sign-Language-Detection) 🤟📷
+🔹 [**ML Model for Sign Language Recognition**](https://github.com/83Gh0st/Sign-Language-Detection) 🤟📷
 
 📌 *Check out more at my repositories!* 🚀
 
