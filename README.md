@@ -1,7 +1,6 @@
 
-
-# 🚀 **83Gh0st | Arjun** 👨‍💻  
-### **AI | ML | Cybersecurity | Robotics | ECE | Data Science**  
+# 🚀 83Gh0st | 👨‍💻  
+### **AI | ML | Cybersecurity | Robotics | EEE | Data Science**  
 
 ![Profile Banner](https://user-images.githubusercontent.com/99184393/200238008-b1e8df69-08d8-4b2d-9091-fd93b1e0f8de.gif)
 
@@ -12,39 +11,39 @@
 
 ## **👨‍🎓 About Me**
 
-I'm **Arjun**, an engineering enthusiast passionate about **AI, cybersecurity, robotics, and defense technology**. I thrive on solving complex problems, developing high-impact projects, and working at the intersection of **hardware and software**.  
+I'm an engineering enthusiast passionate about **AI, cybersecurity, robotics, and defense technology**. I thrive on solving complex problems, developing high-impact projects, and working at the intersection of **hardware and software**.  
 
 🔬 **Currently pursuing:**  
-- 🎓 **B.Tech in Electrical & Electronics Engineering** – *NIT Nagaland*  
-- 📊 **BS in Data Science & Applications** – *IIT Madras*  
+- 🎓 B.Tech in Electrical & Electronics Engineering 
+- 📊 BS in Data Science & Applications  
 
-💡 **Interests:** AI-driven cybersecurity, robotics, embedded systems, quantum computing, and autonomous technologies.  
-🏆 **Experience:** Hackathons, research projects, startup ideas, and cutting-edge defense tech applications.  
+💡 Interests: AI-driven cybersecurity, robotics, embedded systems, quantum computing, and autonomous technologies.  
+🏆 Experience: Hackathons, research projects, startup ideas, and cutting-edge defense tech applications.  
 
 ---
 
-## **🛠 Tech Stack & Expertise**  
+## 🛠 Tech Stack & Expertise
 
-### **🚀 Programming & Development**
+### 🚀 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-### **🤖 AI/ML & Data Science**
+### 🤖 AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### **🔒 Cybersecurity & Cloud**
+### 🔒 Cybersecurity & Cloud
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=flat-square&logo=burpsuite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### **🔧 Embedded Systems & Hardware**
+### 🔧 Embedded Systems & Hardware
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -52,16 +51,30 @@ I'm **Arjun**, an engineering enthusiast passionate about **AI, cybersecurity, r
 
 ---
 
-## **📌 Featured Projects**  
+## 📌 Featured Projects
 
-🚀 **AI-Powered Drone Surveillance** – *Autonomous drones with real-time AI processing for threat detection.*  
-🔗 [GitHub Repo](https://github.com/83Gh0st/AI-Drone-Surveillance)  
+### 🚀 **AI-Powered Drone Surveillance**  
+✅ *Autonomous drones with real-time AI processing for threat detection.*  
+📌 [GitHub Repo](https://github.com/83Gh0st/AI-Drone-Surveillance)  
+🖼️ ![AI Drone](https://source.unsplash.com/600x300/?drone,technology)
 
-🛡️ **Cybersecurity Threat Detection System** – *AI-driven intrusion detection and real-time threat analytics.*  
-🔗 [GitHub Repo](https://github.com/83Gh0st/CyberThreat-Detector)  
+---
 
-🤟 **Sign Language Recognition Model** – *Deep learning-based real-time sign language interpretation.*  
-🔗 [GitHub Repo](https://github.com/83Gh0st/Sign-Language-Detection)  
+### 🔥 **Fire Detection using YOLOv5 & Thermal Cameras**  
+✅ *AI-based real-time fire detection using thermal cameras and YOLOv5.*  
+📌 [GitHub Repo](https://github.com/83Gh0st/Fire-Detection-Thermal)  
+🖼️ ![Fire Detection](https://source.unsplash.com/600x300/?fire,thermal-imaging)
+
+---
+
+### 🔒 **Cybersecurity Threat Detection System**  
+✅ *AI-driven intrusion detection and real-time threat analytics.*  
+📌 [GitHub Repo](https://github.com/83Gh0st/CyberThreat-Detector)  
+🖼️ ![Cybersecurity](https://source.unsplash.com/600x300/?cybersecurity,technology)
+
+---
+
+
 
 📌 *More projects available in my repositories!*  
 
@@ -70,13 +83,13 @@ I'm **Arjun**, an engineering enthusiast passionate about **AI, cybersecurity, r
 ## **📊 GitHub Stats & Contributions**  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=83Gh0st&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=83Gh0st&theme=radical" alt="GitHub Activity Graph" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=83Gh0st&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=83Gh0st&theme=radical" alt="GitHub Contributions" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=83Gh0st&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=83Gh0st&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -98,3 +111,4 @@ I'm **Arjun**, an engineering enthusiast passionate about **AI, cybersecurity, r
 
 ![Footer](https://user-images.githubusercontent.com/99184393/200238008-b1e8df69-08d8-4b2d-9091-fd93b1e0f8de.gif)
 
+---
