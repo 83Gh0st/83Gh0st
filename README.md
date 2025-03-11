@@ -51,32 +51,7 @@ I'm an engineering enthusiast passionate about **AI, cybersecurity, robotics, an
 
 ---
 
-## 📌 Featured Projects
-
-### 🚀 **AI-Powered Drone Surveillance**  
-✅ *Autonomous drones with real-time AI processing for threat detection.*  
-📌 [GitHub Repo](https://github.com/83Gh0st/AI-Drone-Surveillance)  
-🖼️ ![AI Drone](https://source.unsplash.com/600x300/?drone,technology)
-
----
-
-### 🔥 **Fire Detection using YOLOv5 & Thermal Cameras**  
-✅ *AI-based real-time fire detection using thermal cameras and YOLOv5.*  
-📌 [GitHub Repo](https://github.com/83Gh0st/Fire-Detection-Thermal)  
-🖼️ ![Fire Detection](https://source.unsplash.com/600x300/?fire,thermal-imaging)
-
----
-
-### 🔒 **Cybersecurity Threat Detection System**  
-✅ *AI-driven intrusion detection and real-time threat analytics.*  
-📌 [GitHub Repo](https://github.com/83Gh0st/CyberThreat-Detector)  
-🖼️ ![Cybersecurity](https://source.unsplash.com/600x300/?cybersecurity,technology)
-
----
-
-
-
-📌 *More projects available in my repositories!*  
+📌 * projects available in my repositories!*  
 
 ---
 
